@@ -1,0 +1,8 @@
+{
+  "name": "Rizwan Cricket",
+  "description": "Live cricket scoreboard, all tournaments tracker, AI scoreboard image extraction, and shareable TV broadcast overlay studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
